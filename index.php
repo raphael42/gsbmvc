@@ -1,4 +1,6 @@
 <?php
+//test debug et sync et modif de comentaire pour test 
+//et modif en appelant l'éditeur sublime directement depuis githubformac
 require_once("include/fct.inc.php");
 require_once ("include/class.pdogsb.inc.php");
 include("vues/v_entete.php") ;
